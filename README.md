@@ -1,2 +1,1 @@
-# certi
-certificate
+# certificate
